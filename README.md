@@ -11,7 +11,7 @@
   Starter code provided as class materials of EdX coding bootcamp.
   
   ## Links
-  [Deployed App](https://jate-oddux.onrender.com)
+  [Deployed App](https://jate-oddux-xe22.onrender.com)
   
   ## GitLink
   [My github page can be found here](www.github/Oddux)
