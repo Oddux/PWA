@@ -8,10 +8,10 @@
   To use this text editor, simply click the link to the deployed app under the 'links' section of the README. To install and use offline, click the install button in the upper left hand corner of the page.
 
   ## Contributing
-  Starter code provided as class materials of EdX coding bootcamp.
+  Starter code provided as class materials in Module 19 of EdX coding bootcamp.
   
   ## Links
-  [Deployed App](https://jate-oddux-xe22.onrender.com)
+  [Deployed App](https://jate-oddux-4114c537f1da.herokuapp.com/)
   
   ## GitLink
   [My github page can be found here](www.github/Oddux)
